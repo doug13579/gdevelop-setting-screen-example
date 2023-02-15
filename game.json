@@ -343,16 +343,6 @@
           "actions": [
             {
               "type": {
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "TextCaptions",
-                "=",
-                "TextCaptions.VariableString(Name) + \":\""
-              ]
-            },
-            {
-              "type": {
                 "value": "ModVarScene"
               },
               "parameters": [
